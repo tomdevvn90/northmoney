@@ -1,0 +1,71 @@
+.header-main{
+    background: #fff;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    -webkit-box-shadow:  0 4px 12px 0 rgba(0, 41, 60, 0.05);
+    -moz-box-shadow:  0 4px 12px 0 rgba(0, 41, 60, 0.05);
+    box-shadow: 0 4px 12px 0 rgba(0, 41, 60, 0.05);
+    .logo-site{
+        .logo-site{
+            width: 100%;
+            max-width: 333px;
+            height: auto;
+        }
+    }
+    .content-header-main, .content-header-main .meta-header{
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: -o-flex;
+        display: flex;
+        align-items: center;
+        align-content: center;
+    }
+    .content-header-main{
+        > div{
+            width: 50%;
+        }
+        .meta-header{
+            -webkit-box-pack: flex-end;
+            -moz-box-pack: flex-end;
+            -ms-flex-pack: flex-end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            .cta-header{
+                > a{
+                    background-color: $main-color;
+                    color: $main-color-2;
+                }
+            }
+            .phone-number{
+                margin: 0 0 0 70px;
+                .__phone{
+                    > a{
+                        display: -webkit-flex;
+                        display: -moz-flex;
+                        display: -ms-flexbox;
+                        display: -o-flex;
+                        display: flex;
+                        align-items: center;
+                        align-content: center;
+                        .__text{
+                            margin: 0 0 0 8px;
+                             font-size: 18px;
+                             font-stretch: normal;
+                             font-style: normal;
+                             line-height: normal;
+                             letter-spacing: 0;
+                             color: $main-color;
+                             font-weight: 300;
+                        }
+                        img{
+                            width: 100%;
+                            max-width: 22px;
+                            height: auto;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

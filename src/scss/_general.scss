@@ -1,0 +1,101 @@
+body{
+    font-size: 16px;
+    line-height: 25.9px;
+    color: $main-color;
+    font-family: $font-main;
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+    h1, h2, h3, h4, h5, h6{
+        font-weight: 700;
+    }
+    h5,h6{
+        font-weight: 600;
+    }
+
+    h1{
+        font-size: 48px;
+    }
+
+    h2{
+        font-size: 36px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -1px;
+        color: $main-color;
+    }
+
+    h3{
+        font-size: 24px;
+    }
+
+    h4{
+        font-size: 16px;
+    }
+
+    a{
+        display: inline-block;
+        text-decoration: none;
+        -webkit-transition: all 0.25s ease-in-out;
+        -moz-transition: all 0.25s ease-in-out;
+        -ms-transition: all 0.25s ease-in-out;
+        -o-transition: all 0.25s ease-in-out;
+    }
+    a, a:focus {
+        outline: none;
+        cursor: pointer;
+    }
+}
+.container{
+    width: 100%;
+    max-width: 1310px;
+    padding: 0 15px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+.bt-cta{
+    > a{
+        font-size: 18px;
+        font-weight: 300;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 0.89;
+        letter-spacing: 0;
+        text-align: center;
+        background-color: $main-color-2;
+        color: $main-color;
+        padding: 10px 71px 13px 70px;
+        border-radius: 0;
+        box-sizing: border-box;
+        position: relative;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: -o-flex;
+        display: flex;
+        align-items: center;
+        align-content: center;
+        font-family: $font-main;
+        height: 42px;
+        span._text{
+            font-size: inherit;
+            line-height: inherit;
+            font-weight: inherit;
+            letter-spacing: 0;
+            color: inherit;
+            display: inline-block;
+            font-family: inherit;
+            margin-right: 6px;
+        }
+        img{
+            width: 100%;
+            max-width: 13px;
+            height: auto;
+            transform: rotate(90deg);
+            margin-left: 6px;
+        }
+    }
+}
