@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="248px" height="98px" viewBox="0 0 248 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>polaris-trail-up</title>
+    <defs>
+        <linearGradient x1="111.741242%" y1="50.4994995%" x2="-15.3793566%" y2="51.5525326%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#00D6CE" offset="1.00763494%"></stop>
+            <stop stop-color="#325463" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="111.741242%" y1="50.4790073%" x2="-15.3793566%" y2="51.4888393%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#00D6CE" offset="1.00763494%"></stop>
+            <stop stop-color="#325463" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="111.741242%" y1="50.4871166%" x2="-15.3793566%" y2="51.5140443%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#00D6CE" offset="1.00763494%"></stop>
+            <stop stop-color="#325463" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="111.741242%" y1="50.4960581%" x2="-15.3793566%" y2="51.541836%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#00D6CE" offset="1.00763494%"></stop>
+            <stop stop-color="#325463" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="111.741242%" y1="50.4677935%" x2="-15.3793566%" y2="51.4539848%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#00D6CE" offset="1.00763494%"></stop>
+            <stop stop-color="#325463" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="polaris-trail-up" transform="translate(124.000000, 48.654596) scale(-1, 1) translate(-124.000000, -48.654596) translate(1.000000, 0.654596)">
+            <path d="M0,65 C45.213725,85.6786777 93.8990338,96 142.327375,96 C177.180513,96 212.203704,90.65557 246,79.7260089" id="stroke-5" stroke="url(#linearGradient-1)"></path>
+            <path d="M7,49 C50.1288684,68.324424 96.6524755,78 142.977795,78 C176.310238,78 209.764415,72.9919961 242,62.7804511" id="stroke-4" stroke="url(#linearGradient-2)"></path>
+            <path d="M12,33 C53.2285523,51.6368522 97.7878805,61 142.206595,61 C174.157186,61 206.186871,56.1558665 237,46.3085894" id="stroke-3" stroke="url(#linearGradient-3)"></path>
+            <path d="M18,16 C59.2465897,34.8381438 97.9974587,43 142.435607,43 C174.400175,43 202.17339,38.8021049 233,28.8477117" id="stroke-2" stroke="url(#linearGradient-4)"></path>
+            <path d="M24,0 C65.2661522,18.3796348 98.204682,25 142.663906,25 C174.643635,25 198.158769,21.6562115 229,11.9441022" id="stroke-1" stroke="url(#linearGradient-5)"></path>
+        </g>
+    </g>
+</svg>

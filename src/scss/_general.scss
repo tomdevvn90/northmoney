@@ -47,55 +47,113 @@ body{
         outline: none;
         cursor: pointer;
     }
+    
 }
-.container{
-    width: 100%;
-    max-width: 1310px;
-    padding: 0 15px;
-    margin-left: auto;
-    margin-right: auto;
-    box-sizing: border-box;
-}
-.bt-cta{
-    > a{
-        font-size: 18px;
-        font-weight: 300;
-        font-stretch: normal;
-        font-style: normal;
-        line-height: 0.89;
-        letter-spacing: 0;
-        text-align: center;
-        background-color: $main-color-2;
-        color: $main-color;
-        padding: 10px 71px 13px 70px;
-        border-radius: 0;
-        box-sizing: border-box;
-        position: relative;
-        display: -webkit-flex;
-        display: -moz-flex;
-        display: -ms-flexbox;
-        display: -o-flex;
-        display: flex;
-        align-items: center;
-        align-content: center;
-        font-family: $font-main;
-        height: 42px;
-        span._text{
-            font-size: inherit;
-            line-height: inherit;
-            font-weight: inherit;
+.site-main .bt-section, .header-main, .footer-main{
+    .bt-cta{
+        > a{
+            font-size: 18px;
+            font-weight: 500;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 0.89;
             letter-spacing: 0;
-            color: inherit;
-            display: inline-block;
-            font-family: inherit;
-            margin-right: 6px;
+            text-align: center;
+            background-color: $main-color-2;
+            color: $main-color;
+            padding: 10px 71px 13px 70px;
+            border-radius: 0;
+            box-sizing: border-box;
+            position: relative;
+            display: -webkit-flex;
+            display: -moz-flex;
+            display: -ms-flexbox;
+            display: -o-flex;
+            display: flex;
+            align-items: center;
+            align-content: center;
+            font-family: $font-main;
+            height: 42px;
+            max-width: 266px;
+            span._text{
+                font-size: inherit;
+                line-height: inherit;
+                font-weight: inherit;
+                letter-spacing: 0;
+                color: inherit;
+                display: inline-block;
+                font-family: inherit;
+                margin-right: 6px;
+            }
+            img{
+                width: 100%;
+                max-width: 13px;
+                height: auto;
+                transform: rotate(90deg);
+                margin-left: 6px;
+            }
         }
-        img{
-            width: 100%;
-            max-width: 13px;
-            height: auto;
-            transform: rotate(90deg);
-            margin-left: 6px;
+        &.cta_blue{
+            > a{
+                background-color: $main-color;
+                color: $main-color-2;
+            }
+        }
+    }
+    .container{
+        width: 100%;
+        max-width: 1310px;
+        padding: 0 15px;
+        margin-left: auto;
+        margin-right: auto;
+        box-sizing: border-box;
+    }
+}
+.site-main{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+    .bt-section{
+        width: 100%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        .heading{
+            margin: 0;
+            padding: 0;
+            color: $main-color;
+            font-size: 36px;
+            line-height: 44px;
+            letter-spacing: -1px;
+            font-weight: 500;
+            text-align: center;
+            span{
+                font-size: inherit;
+                line-height: inherit;
+                font-weight: inherit;
+                letter-spacing: inherit;
+                color: inherit;
+            }
+        }
+        .description{
+            font-size: 16px;
+            line-height: 1.62;
+            font-weight: 400;
+            letter-spacing: 0;
+            color: $main-color;
+            margin: 20px 0 0 0;
+            a, span{
+                font-size: inherit;
+                line-height: inherit;
+                font-weight: inherit;
+                letter-spacing: inherit;
+                color: inherit;
+            }
+        }
+        ._color-green{
+            color: $main-color-2 !important;
         }
     }
 }

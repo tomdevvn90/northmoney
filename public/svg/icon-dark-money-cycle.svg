@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-dark-money-cycle</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="(DEV)-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-dark-money-cycle">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="icon-money-cycle" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.85185185">
+                <g transform="translate(7.000000, 7.000000)">
+                    <path d="M25,44 C19.752,44 15.015,41.861 11.582,38.419 L15.101,34.899 L0.958,32.071 L3.787,46.213 L7.334,42.665 C11.857,47.19 18.096,50 25,50 C38.807,50 50,38.807 50,25 C50,24.744 49.988,24.49 49.98,24.235" id="Stroke-1" stroke="#00293C"></path>
+                    <line x1="28.9502" y1="43.585" x2="28.9502" y2="43.585" id="Stroke-3" stroke="#00293C"></line>
+                    <line x1="33.0293" y1="42.2197" x2="33.0293" y2="42.2197" id="Stroke-5" stroke="#00293C"></line>
+                    <line x1="36.6973" y1="39.9727" x2="36.6973" y2="39.9727" id="Stroke-7" stroke="#00293C"></line>
+                    <line x1="39.7656" y1="36.957" x2="39.7656" y2="36.957" id="Stroke-9" stroke="#00293C"></line>
+                    <line x1="42.0771" y1="33.3291" x2="42.0771" y2="33.3291" id="Stroke-11" stroke="#00293C"></line>
+                    <line x1="43.5127" y1="29.2744" x2="43.5127" y2="29.2744" id="Stroke-13" stroke="#00293C"></line>
+                    <line x1="44" y1="25" x2="44" y2="25" id="Stroke-15" stroke="#00293C"></line>
+                    <path d="M25,6 C30.247,6 34.992,8.131 38.431,11.569 L34.899,15.101 L49.042,17.929 L46.213,3.787 L42.67,7.33 C38.146,2.806 31.903,-2.84217094e-13 25,-2.84217094e-13 C11.193,-2.84217094e-13 -2.7000624e-13,11.193 -2.7000624e-13,25 C-2.7000624e-13,25.256 0.012,25.51 0.02,25.765" id="Stroke-17" stroke="#00293C"></path>
+                    <line x1="21.0498" y1="6.415" x2="21.0498" y2="6.415" id="Stroke-19" stroke="#00293C"></line>
+                    <line x1="16.9702" y1="7.7803" x2="16.9702" y2="7.7803" id="Stroke-21" stroke="#00293C"></line>
+                    <line x1="13.3022" y1="10.0278" x2="13.3022" y2="10.0278" id="Stroke-23" stroke="#00293C"></line>
+                    <line x1="10.2344" y1="13.043" x2="10.2344" y2="13.043" id="Stroke-25" stroke="#00293C"></line>
+                    <line x1="7.9229" y1="16.6709" x2="7.9229" y2="16.6709" id="Stroke-27" stroke="#00293C"></line>
+                    <line x1="6.4868" y1="20.7261" x2="6.4868" y2="20.7261" id="Stroke-29" stroke="#00293C"></line>
+                    <line x1="6" y1="25" x2="6" y2="25" id="Stroke-31" stroke="#00293C"></line>
+                    <path d="M29,19 L24,19 C22.343,19 21,20.343 21,22 C21,23.657 22.341,25 23.998,25 L26.002,25 C27.659,25 29,26.343 29,28 C29,29.657 27.657,31 26,31 L21,31" id="Stroke-33" stroke="#00C7BE"></path>
+                    <line x1="25" y1="19" x2="25" y2="16" id="Stroke-35" stroke="#00C7BE"></line>
+                    <line x1="25" y1="34" x2="25" y2="31" id="Stroke-37" stroke="#00C7BE"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

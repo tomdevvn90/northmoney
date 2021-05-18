@@ -31,12 +31,6 @@
             -ms-flex-pack: flex-end;
             -webkit-justify-content: flex-end;
             justify-content: flex-end;
-            .cta-header{
-                > a{
-                    background-color: $main-color;
-                    color: $main-color-2;
-                }
-            }
             .phone-number{
                 margin: 0 0 0 70px;
                 .__phone{
@@ -56,7 +50,7 @@
                              line-height: normal;
                              letter-spacing: 0;
                              color: $main-color;
-                             font-weight: 300;
+                             font-weight: 500;
                         }
                         img{
                             width: 100%;
