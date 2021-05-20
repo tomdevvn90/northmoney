@@ -4,7 +4,7 @@
 
 import './scss/main.scss'
 
-;( ( w, $ ) => {
+;( ( w, $ ) => { 
   'use strict'
 
-} )( window, jQuery )
+} )( window, jQuery ) 
