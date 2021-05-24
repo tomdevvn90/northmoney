@@ -1,0 +1,195 @@
+.header-top-bar-mobile{
+    display: none;
+    padding-top: 20px;
+    .phone-number-top-bar{
+        margin: 0 0 0 70px;
+        @media only screen and (max-width: 1199px){
+            margin-left: 35px;
+        }
+        @media only screen and (max-width: 767px){
+            margin-left: 15px;
+        }
+        .__phone{
+            > a{
+                display: -webkit-flex;
+                display: -moz-flex;
+                display: -ms-flexbox;
+                display: -o-flex;
+                display: flex;
+                align-items: center;
+                align-content: center;
+                -webkit-box-pack: center;
+                -moz-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content:center;
+                justify-content: center;
+                .__text{
+                    margin: 0 0 0 8px;
+                     font-size: 18px;
+                     font-stretch: normal;
+                     font-style: normal;
+                     line-height: normal;
+                     letter-spacing: 0;
+                     color: $main-color;
+                     font-weight: 500;
+                }
+                img{
+                    width: 100%;
+                    max-width: 22px;
+                    height: auto;
+                }
+            }
+        }
+    }
+    @media only screen and (max-width: 640px){
+        display: block;
+    }
+}
+.header-main{
+    background: #fff;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    -webkit-box-shadow:  0 4px 12px 0 rgba(0, 41, 60, 0.05);
+    -moz-box-shadow:  0 4px 12px 0 rgba(0, 41, 60, 0.05);
+    box-shadow: 0 4px 12px 0 rgba(0, 41, 60, 0.05);
+    max-height: 106px;
+    @media only screen and (max-width: 640px){
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .header-logo{
+        .thumbnail-logo{
+            > a{
+                display: -webkit-flex;
+                display: -moz-flex;
+                display: -ms-flexbox;
+                display: -o-flex;
+                display: flex;
+                align-items: center;
+                align-content: center;
+            }
+        }
+        .logo-site{
+            width: 100%;
+            max-width: 333px;
+            height: auto;
+            @media only screen and (max-width: 991px){
+                max-width: 250px;
+            }
+            @media only screen and (max-width: 767px){
+                max-width: 200px;
+            }
+            @media only screen and (max-width: 480px){
+                max-width: 180px;
+            }
+            @media only screen and (max-width: 374px){
+                max-width: 170px;
+            }
+        }
+    }
+    .content-header-main, .content-header-main .meta-header{
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: -o-flex;
+        display: flex;
+        align-items: center;
+        align-content: center;
+    }
+    .content-header-main{
+        > div{
+            width: 50%;
+            @media only screen and (max-width: 991px){
+                &.header-logo{
+                    width: 300px;
+                    @media only screen and (max-width: 767px){
+                        width: 210px;
+                    }
+                }
+                &.meta-header{
+                    width: calc(100% - 300px);
+                    @media only screen and (max-width: 767px){
+                        width: calc(100% - 210px);
+                    }
+                }
+            }
+        }
+        .meta-header{
+            -webkit-box-pack: flex-end;
+            -moz-box-pack: flex-end;
+            -ms-flex-pack: flex-end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            .bt-cta{
+                > a{
+                    width: 266px;
+                    @media only screen and (max-width: 991px){
+                        width: 200px;
+                    }
+                    @media only screen and (max-width: 480px){
+                        width: 120px;
+                    }
+                    @media only screen and (max-width: 374px){
+                        max-width: 100px;
+                    }
+                    span{
+                        margin: 0;
+                        padding-right: 6px;
+                        @media only screen and (max-width: 480px){
+                            font-size: 14px;
+                        }
+                        @media only screen and (max-width: 374px){
+                            font-size: 13px;
+                        }
+                    }
+                    img{
+                        height: 15px;
+                        width: auto;
+                        max-width: 17px;
+                        @media only screen and (max-width: 480px){
+                            display: none;
+                        }
+                    }
+                }
+            }
+            .phone-number{
+                margin: 0 0 0 70px;
+                @media only screen and (max-width: 1199px){
+                    margin-left: 35px;
+                }
+                @media only screen and (max-width: 767px){
+                    margin-left: 15px;
+                }
+                @media only screen and (max-width: 640px){
+                    display: none;
+                }
+                .__phone{
+                    > a{
+                        display: -webkit-flex;
+                        display: -moz-flex;
+                        display: -ms-flexbox;
+                        display: -o-flex;
+                        display: flex;
+                        align-items: center;
+                        align-content: center;
+                        .__text{
+                            margin: 0 0 0 8px;
+                             font-size: 18px;
+                             font-stretch: normal;
+                             font-style: normal;
+                             line-height: normal;
+                             letter-spacing: 0;
+                             color: $main-color;
+                             font-weight: 500;
+                        }
+                        img{
+                            width: 100%;
+                            max-width: 22px;
+                            height: auto;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

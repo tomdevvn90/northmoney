@@ -1,0 +1,27 @@
+
+@keyframes bt_bounce_up__2cvaf{
+  0%, 20%, 40%, 60%, 100% {
+      transform: translateZ(0);
+  }
+  10%, 30%, 50% {
+    transform: translate3d(0,5px,0);
+  }
+}
+
+@keyframes bt_bounce__2cvaf{
+  0%, 20%, 40%, 60%, 100% {
+      transform: translateZ(0);
+  }
+  10%, 30%, 50% {
+    transform: translate3d(5px,0,0);
+  }
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}

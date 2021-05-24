@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-dark-happy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="(DEV)-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-dark-happy">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="icon-happy" mask="url(#mask-2)" stroke-linejoin="round" stroke-width="2">
+                <g transform="translate(7.000000, 7.000000)" id="Path">
+                    <line x1="42.8501" y1="36.5" x2="48.4901" y2="38.55" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="1.51001" y1="21.4502" x2="7.15001" y2="23.5002" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="39.55" y1="42.21" x2="44.1501" y2="46.07" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="5.8501" y1="13.9302" x2="10.4501" y2="17.7902" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="10.4501" y1="42.21" x2="5.8501" y2="46.07" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="44.1501" y1="13.9302" x2="39.55" y2="17.7902" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="7.15001" y1="36.5" x2="1.51001" y2="38.55" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="48.4901" y1="21.4502" x2="42.8501" y2="23.5002" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="6" y1="30" x2="0" y2="30" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="50" y1="30" x2="44" y2="30" stroke="#00C7BE" stroke-linecap="round"></line>
+                    <line x1="25" y1="32" x2="25" y2="50" stroke="#15234C" stroke-linecap="round"></line>
+                    <path d="M43.4101,1.58988 C42.6301,0.80988 41.3601,0.80988 40.5801,1.58988 L25.0001,16.9999 L9.4101,1.58988 C8.63012,0.80988 7.36012,0.80988 6.58012,1.58988 C5.80012,2.36988 5.80012,3.63988 6.58012,4.41988 L19.0001,16.9399 L19.0001,48.9999 C19.0001,49.5499 19.4501,49.9999 20.0001,49.9999 L30.0001,49.9999 C30.5501,49.9999 31.0001,49.5499 31.0001,48.9999 L31.0001,16.9399 L43.4101,4.40988 C44.2001,3.62988 44.2001,2.36988 43.4101,1.58988 Z" stroke="#00293C" stroke-linecap="round"></path>
+                    <path d="M25,10 C27.7614,10 30,7.76142 30,5 C30,2.23858 27.7614,0 25,0 C22.2386,0 20,2.23858 20,5 C20,7.76142 22.2386,10 25,10 Z" stroke="#00293C"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

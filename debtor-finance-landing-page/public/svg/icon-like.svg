@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="56.15" viewBox="0 0 45 56.15">
+  <g id="Group_18" data-name="Group 18" transform="translate(1 0.15)">
+    <g id="Group_16" data-name="Group 16" transform="translate(16 8) rotate(-90)">
+      <path id="Path" d="M0,0,5.64,2.05" transform="translate(0 15.05)" fill="none" stroke="#00c7be" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-2" data-name="Path" d="M5.64,0,0,2.05" transform="translate(0 0)" fill="none" stroke="#00c7be" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-3" data-name="Path" d="M6,.5H0" transform="translate(1.15 8.05)" fill="none" stroke="#00c7be" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(0 11)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,33.826A10.174,10.174,0,0,0,10.174,44H28.4a3.561,3.561,0,0,0,0-7.122h1.017a3.56,3.56,0,1,0,0-7.121h1.018a3.561,3.561,0,0,0,0-7.122c.148,0-3.3.018-3.159,0H30.44c.222,0,.7-.07.715-.073a3.56,3.56,0,0,0-.716-7.048H17.3A11.763,11.763,0,0,0,18.53,3.365C17.186.429,15.424,0,14.06,0,12.026,0,12,4.071,11.23,6.477,8.585,14.737,2.779,20.6,0,20.6Z" transform="translate(9 0)" fill="none" stroke="#00293c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M6,0H3A3.009,3.009,0,0,0,0,3V23.5a3.009,3.009,0,0,0,3,3H6a3.009,3.009,0,0,0,3-3V3A3.009,3.009,0,0,0,6,0Z" transform="translate(0 17.5)" fill="none" stroke="#00293c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Group_13_Copy" data-name="Group 13 Copy" transform="translate(0.5 0.5)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M24,12A12,12,0,1,0,12,24,12,12,0,0,0,24,12Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M.261,1.565V0" transform="translate(11.739 0.261)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M0,.261H1.565" transform="translate(22.174 11.739)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Stroke_7" data-name="Stroke 7" d="M.261,0V1.565" transform="translate(11.739 22.174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Stroke_9" data-name="Stroke 9" d="M1.565.261H0" transform="translate(0.261 11.739)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.043"/>
+    <g id="Group_24" data-name="Group 24" transform="translate(8 6)">
+      <path id="Fill_22" data-name="Fill 22" d="M4,0,0,9.231l2.729-1L4,11,5.271,8.234,8,9.231Z" fill="none" stroke="#00c7be" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

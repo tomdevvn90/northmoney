@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="656px" height="660px" viewBox="0 0 656 660" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>compass-dial</title>
+    <g id="(DEV)-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compass-dial" transform="translate(0.000000, 0.345404)" stroke="#667F8A">
+            <path d="M327.5,0 L327.5,28 L327.5,0 Z" id="Fill-1"></path>
+            <path d="M273,7 L278,35 L273,7 Z" id="Fill-2"></path>
+            <line x1="227" y1="48" x2="216" y2="21" id="Fill-3"></line>
+            <line x1="178" y1="71" x2="164" y2="45" id="Fill-4"></line>
+            <line x1="136" y1="99" x2="117" y2="77" id="Fill-5"></line>
+            <line x1="100" y1="138" x2="78" y2="119" id="Fill-6"></line>
+            <line x1="70" y1="179" x2="44" y2="165" id="Fill-7"></line>
+            <line x1="47" y1="227" x2="20" y2="216" id="Fill-8"></line>
+            <line x1="33" y1="276" x2="5" y2="271" id="Fill-9"></line>
+            <path d="M0,327.5 L28,327.5 L0,327.5 Z" id="Fill-10"></path>
+            <line x1="33" y1="381" x2="5" y2="386" id="Fill-11"></line>
+            <line x1="47" y1="431" x2="20" y2="442" id="Fill-12"></line>
+            <line x1="70" y1="478" x2="44" y2="492" id="Fill-13"></line>
+            <line x1="100" y1="520" x2="78" y2="539" id="Fill-14"></line>
+            <line x1="136" y1="556" x2="117" y2="578" id="Fill-15"></line>
+            <line x1="178" y1="586" x2="164" y2="612" id="Fill-16"></line>
+            <line x1="227" y1="610" x2="216" y2="637" id="Fill-17"></line>
+            <line x1="278" y1="624" x2="273" y2="652" id="Fill-18"></line>
+            <path d="M327.5,659 L327.5,631 L327.5,659 Z" id="Fill-19"></path>
+            <line x1="378" y1="624" x2="383" y2="652" id="Fill-20"></line>
+            <line x1="429" y1="610" x2="440" y2="637" id="Fill-21"></line>
+            <line x1="478" y1="586" x2="492" y2="612" id="Fill-22"></line>
+            <line x1="520" y1="556" x2="539" y2="578" id="Fill-23"></line>
+            <line x1="556" y1="520" x2="578" y2="539" id="Fill-24"></line>
+            <line x1="586" y1="478" x2="612" y2="492" id="Fill-25"></line>
+            <line x1="609" y1="431" x2="636" y2="442" id="Fill-26"></line>
+            <line x1="623" y1="381" x2="651" y2="386" id="Fill-27"></line>
+            <path d="M628,327.5 L656,327.5 L628,327.5 Z" id="Fill-28"></path>
+            <line x1="623" y1="276" x2="651" y2="271" id="Fill-29"></line>
+            <line x1="609" y1="227" x2="636" y2="216" id="Fill-30"></line>
+            <line x1="586" y1="179" x2="612" y2="165" id="Fill-31"></line>
+            <line x1="556" y1="138" x2="578" y2="119" id="Fill-32"></line>
+            <line x1="520" y1="99" x2="539" y2="77" id="Fill-33"></line>
+            <line x1="478" y1="71" x2="492" y2="45" id="Fill-34"></line>
+            <line x1="429" y1="48" x2="440" y2="21" id="Fill-35"></line>
+            <path d="M383,7 L378,35 L383,7 Z" id="Fill-36"></path>
+        </g>
+    </g>
+</svg>

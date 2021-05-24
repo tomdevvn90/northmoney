@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'ITC Avant Garde Std Bk';
+    src: url('ITCAvantGardeStd-Bk.eot');
+    src: url('ITCAvantGardeStd-Bk.eot?#iefix') format('embedded-opentype'),
+        url('ITCAvantGardeStd-Bk.woff2') format('woff2'),
+        url('ITCAvantGardeStd-Bk.woff') format('woff'),
+        url('ITCAvantGardeStd-Bk.ttf') format('truetype'),
+        url('ITCAvantGardeStd-Bk.svg#ITCAvantGardeStd-Bk') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Avant Garde Std Md';
+    src: url('ITCAvantGardeStd-Bold.eot');
+    src: url('ITCAvantGardeStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ITCAvantGardeStd-Bold.woff2') format('woff2'),
+        url('ITCAvantGardeStd-Bold.woff') format('woff'),
+        url('ITCAvantGardeStd-Bold.ttf') format('truetype'),
+        url('ITCAvantGardeStd-Bold.svg#ITCAvantGardeStd-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Avant Garde Std Bk';
+    src: url('ITCAvantGardeStd-Bk_1.eot');
+    src: url('ITCAvantGardeStd-Bk_1.eot?#iefix') format('embedded-opentype'),
+        url('ITCAvantGardeStd-Bk_1.woff2') format('woff2'),
+        url('ITCAvantGardeStd-Bk_1.woff') format('woff'),
+        url('ITCAvantGardeStd-Bk_1.ttf') format('truetype'),
+        url('ITCAvantGardeStd-Bk_1.svg#ITCAvantGardeStd-Bk') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Avant Garde Std Md';
+    src: url('ITCAvantGardeStd-Bold_1.eot');
+    src: url('ITCAvantGardeStd-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('ITCAvantGardeStd-Bold_1.woff2') format('woff2'),
+        url('ITCAvantGardeStd-Bold_1.woff') format('woff'),
+        url('ITCAvantGardeStd-Bold_1.ttf') format('truetype'),
+        url('ITCAvantGardeStd-Bold_1.svg#ITCAvantGardeStd-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Avant Garde Std Md';
+    src: url('ITCAvantGardeStd-Md.eot');
+    src: url('ITCAvantGardeStd-Md.eot?#iefix') format('embedded-opentype'),
+        url('ITCAvantGardeStd-Md.woff2') format('woff2'),
+        url('ITCAvantGardeStd-Md.woff') format('woff'),
+        url('ITCAvantGardeStd-Md.ttf') format('truetype'),
+        url('ITCAvantGardeStd-Md.svg#ITCAvantGardeStd-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Avant Garde Std Md';
+    src: url('ITCAvantGardeStd-Md_1.eot');
+    src: url('ITCAvantGardeStd-Md_1.eot?#iefix') format('embedded-opentype'),
+        url('ITCAvantGardeStd-Md_1.woff2') format('woff2'),
+        url('ITCAvantGardeStd-Md_1.woff') format('woff'),
+        url('ITCAvantGardeStd-Md_1.ttf') format('truetype'),
+        url('ITCAvantGardeStd-Md_1.svg#ITCAvantGardeStd-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

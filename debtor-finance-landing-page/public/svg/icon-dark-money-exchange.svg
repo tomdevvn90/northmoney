@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-dark-money-exchange</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="(DEV)-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-dark-money-exchange">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="icon-money-exchange" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+                <g transform="translate(4.000000, 7.000000)" id="Group-21">
+                    <path d="M41,44 L15,44 L15,50 L1,40 L15,30 L15,36 L48,36 C48.553,36 49,35.552 49,35 L49,14.286" id="Stroke-3" stroke="#00293C" stroke-width="2"></path>
+                    <path d="M15,6 L41,6 L41,0 L55,10 L41,20 L41,14 L8,14 C7.448,14 7,14.448 7,15 L7,35.714" id="Stroke-5" stroke="#00293C" stroke-width="2"></path>
+                    <path d="M35,25 C35,28.866 31.866,32 28,32 C24.134,32 21,28.866 21,25 C21,22.3471156 22.4757471,20.0389175 24.6510971,18.8515499 C25.645845,18.3085884 26.7868844,18 28,18 C31.866,18 35,21.134 35,25 Z" id="Stroke-7" stroke="#00C7BE" stroke-width="2"></path>
+                    <path d="M14,14 C14,17.866 10.866,21 7,21" id="Stroke-9" stroke="#00293C" stroke-width="2"></path>
+                    <path d="M42,36 C42,32.134 45.134,29 49,29" id="Stroke-11" stroke="#00293C" stroke-width="2"></path>
+                    <line x1="55" y1="40" x2="55" y2="40" id="Stroke-17" stroke="#00293C" stroke-width="2"></line>
+                    <line x1="1" y1="10" x2="1" y2="10" id="Stroke-19" stroke="#00293C" stroke-width="2"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

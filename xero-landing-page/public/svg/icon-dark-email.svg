@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-dark-email</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="(DEV)-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-dark-email">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="icon-email" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <g transform="translate(7.000000, 15.000000)" id="Path">
+                    <path d="M45.320197,33.9901478 L3.9408867,33.9901478 C1.7635468,33.9901478 0,32.226601 0,30.0492611 L0,4.43349754 C0,2.25615764 1.7635468,0.492610837 3.9408867,0.492610837 L45.320197,0.492610837 C47.4975369,0.492610837 49.2610837,2.25615764 49.2610837,4.43349754 L49.2610837,30.0492611 C49.2610837,32.226601 47.4975369,33.9901478 45.320197,33.9901478 Z" stroke="#00293C"></path>
+                    <line x1="45.320197" y1="30.0492611" x2="32.5123153" y2="17.2413793" stroke="#00293C"></line>
+                    <line x1="16.7487685" y1="17.2413793" x2="3.9408867" y2="30.0492611" stroke="#00293C"></line>
+                    <path d="M45.320197,4.43349754 L27.4187192,22.3349754 C25.8817734,23.8719212 23.3891626,23.8719212 21.8423645,22.3349754 L3.9408867,4.43349754" stroke="#00C7BE"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

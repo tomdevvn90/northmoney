@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-dark-package</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64"></rect>
+    </defs>
+    <g id="(DEV)-Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-dark-package">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="icon-package" mask="url(#mask-2)" stroke-linejoin="round" stroke-width="2">
+                <g transform="translate(5.000000, 9.000000)" id="Path">
+                    <polyline stroke="#00293C" stroke-linecap="round" points="0 11 20 22 40 11"></polyline>
+                    <line x1="20" y1="22" x2="20" y2="46" stroke="#00293C" stroke-linecap="round"></line>
+                    <path d="M41,46 C48.1797,46 54,40.1797 54,33 C54,25.8203 48.1797,20 41,20 C33.8203,20 28,25.8203 28,33 C28,40.1797 33.8203,46 41,46 Z" stroke="#00293C"></path>
+                    <polyline stroke="#00293C" stroke-linecap="round" points="29 5 9 15.95 9 23"></polyline>
+                    <polyline stroke="#00C7BE" stroke-linecap="round" points="47 29 43 33 39 37 35 33"></polyline>
+                    <polyline stroke="#00293C" stroke-linecap="round" points="40 16.05 40 11 20 0 0 11 0 35 20 46 26.77 42.28"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

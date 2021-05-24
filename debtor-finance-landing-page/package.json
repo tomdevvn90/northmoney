@@ -1,0 +1,45 @@
+{
+  "name": "northmoney-xero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack serve",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomdevvn90/northmoney-xero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomdevvn90/debtor-finance-landing-page/issues"
+  },
+  "homepage": "https://github.com/tomdevvn90/debtor-finance-landing-page#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "jquery": "^3.6.0",
+    "sass": "^1.32.13",
+    "sass-loader": "^11.1.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.0.0-rc.6",
+    "webpack-cli": "^4.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/plugin-transform-arrow-functions": "^7.13.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.14.0",
+    "@babel/preset-env": "^7.14.2",
+    "babel-loader": "^8.2.2",
+    "mini-css-extract-plugin": "^1.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
